@@ -1,0 +1,26 @@
+
+{
+    "name": "python-aria-mirror-bot ",
+    "description": "Telegram mirror bot with python",
+    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "aria",
+      "python"
+    ],
+    "repository": "https://github.com/AmineSoukara/PyMirrorBot.git",
+    "website": "https://github.com/AmineSoukara/PyMirrorBot/tree/master",
+    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "stack": "container",
+    "env": {
+      "ENV": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+      },
+      "STOP_DUPLICATE_MIRROR": {
+	"description": "if this field is set to True , bot will check file in drive, if it is present in drive, downloading will ne stopped.",
+        "required": false
+      }
+    }
+}
