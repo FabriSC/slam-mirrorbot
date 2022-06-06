@@ -9,9 +9,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AmineSoukara/PyMirrorBot.git",
-    "website": "https://github.com/AmineSoukara/PyMirrorBot/tree/master",
-    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "repository": "https://github.com/FabriSC/slam-mirrorbot",
+    "website": "https://github.com/FabriSC/slam-mirrorbot/edit/master",
+    "success_url": "https://github.com/FabriSC/slam-mirrorbot/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
